@@ -1,9 +1,7 @@
 # Analytics CS on Amzon Fine Foods Review
-Heriot-Watt University, Dubai
-Group: Gabi et all.
-  <li>
-    <ul>1. Gabi </ul>
-    <ul>2. Khaled </ul>
-    <ul>3. Omar </ul>
-    <ul>4. Vimal </ul>
-  </li>
+## Heriot-Watt University, Dubai
+#### Group: Gabi et all :
+    1. Gabi 
+    2. Khaled 
+    3. Omar 
+    4. Vimal  
