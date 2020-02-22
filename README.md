@@ -1,4 +1,4 @@
-# Analytics CS on Amzon Fine Foods Review
+# Analytics Coursework on Amzon Fine Foods Review
 ## Heriot-Watt University, Dubai
 #### Group: Gabi et all :
     1. Gabi 
